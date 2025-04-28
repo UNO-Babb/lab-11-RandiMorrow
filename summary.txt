@@ -1,0 +1,4 @@
+I adjusted the items, checkers, and run time. 
+I increased the number of items to 200, making each transaction period take longer to both shop and checkout. 
+I also increased the number of checkers to 20 to handle the larger load better.
+I extended the run time from 3 to 4 hours to see what a larger sample of the behavior might look like. 
